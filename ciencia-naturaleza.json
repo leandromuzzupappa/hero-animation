@@ -1,0 +1,543 @@
+[
+  {
+    "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+    "respuestas": {
+      "correcta": "Júpiter",
+      "incorrectas": ["Marte", "Venus", "Saturno"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el segundo elemento más abundante en la atmósfera terrestre?",
+    "respuestas": {
+      "correcta": "Oxígeno",
+      "incorrectas": ["Hidrógeno", "Carbono", "Nitrógeno"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿En qué año aterrizó el hombre en la luna por primera vez?",
+    "respuestas": {
+      "correcta": "1969",
+      "incorrectas": ["1968", "1970", "1971"]
+    },
+    "dificultad": "Medio"
+  },
+  {
+    "pregunta": "¿Cuál es el animal terrestre más rápido?",
+    "respuestas": {
+      "correcta": "Guepardo",
+      "incorrectas": ["León", "Elefante", "Jirafa"]
+    },
+    "dificultad": "Medio"
+  },
+  {
+    "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+    "respuestas": {
+      "correcta": "206",
+      "incorrectas": ["200", "210", "220"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+    "respuestas": {
+      "correcta": "La piel",
+      "incorrectas": ["El hígado", "El cerebro", "El corazón"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Cuál es el árbol más alto del mundo?",
+    "respuestas": {
+      "correcta": "Secuoya",
+      "incorrectas": ["Pino", "Roble", "Eucalipto"]
+    },
+    "dificultad": "Medio"
+  },
+  {
+    "pregunta": "¿Cuál es el pico más alto de la Tierra?",
+    "respuestas": {
+      "correcta": "Everest",
+      "incorrectas": ["K2", "Kilimanjaro", "Aconcagua"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo?",
+    "respuestas": {
+      "correcta": "Nilo",
+      "incorrectas": ["Amazonas", "Yangtsé", "Misisipi"]
+    },
+    "dificultad": "Medio"
+  },
+  {
+    "pregunta": "¿Cuál es el océano más profundo?",
+    "respuestas": {
+      "correcta": "Pacífico",
+      "incorrectas": ["Atlántico", "Índico", "Ártico"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuándo ocurrió la extinción masiva del Pérmico-Triásico?",
+    "respuestas": {
+      "correcta": "Hace aproximadamente 252 millones de años",
+      "incorrectas": [
+        "Hace aproximadamente 65 millones de años",
+        "Hace aproximadamente 200 millones de años",
+        "Hace aproximadamente 150 millones de años"
+      ]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Qué es la fotosíntesis?",
+    "respuestas": {
+      "correcta": "Proceso por el cual las plantas convierten la luz solar en energía",
+      "incorrectas": [
+        "Proceso de respiración de las plantas",
+        "Proceso de crecimiento de las plantas",
+        "Proceso de alimentación de las plantas"
+      ]
+    },
+    "dificultad": "Medio"
+  },
+  {
+    "pregunta": "¿Cuántos cromosomas tiene un humano normal?",
+    "respuestas": {
+      "correcta": "46",
+      "incorrectas": ["44", "48", "42"]
+    },
+    "dificultad": "Difícil"
+  },
+
+  {
+    "pregunta": "¿Qué es un átomo?",
+    "respuestas": {
+      "correcta": "La unidad más pequeña de un elemento que mantiene las propiedades de ese elemento",
+      "incorrectas": ["Una molécula", "Una célula", "Un compuesto"]
+    },
+    "dificultad": "Medio"
+  },
+  {
+    "pregunta": "¿Cómo se llama la capa de la Tierra en la que vivimos?",
+    "respuestas": {
+      "correcta": "Corteza terrestre",
+      "incorrectas": ["Manto", "Núcleo", "Atmósfera"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Qué es la teoría de la relatividad?",
+    "respuestas": {
+      "correcta": "Teoría propuesta por Albert Einstein que describe la gravedad como una curvatura del espacio-tiempo",
+      "incorrectas": [
+        "Teoría de la evolución",
+        "Teoría cuántica",
+        "Teoría del Big Bang"
+      ]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Cuál es el mamífero más grande que ha existido?",
+    "respuestas": {
+      "correcta": "La ballena azul",
+      "incorrectas": [
+        "El elefante africano",
+        "El Tyrannosaurus rex",
+        "El Argentinosaurus"
+      ]
+    },
+    "dificultad": "Medio"
+  },
+  {
+    "pregunta": "¿Qué es la genética?",
+    "respuestas": {
+      "correcta": "La ciencia de los genes, la herencia y la variación en los seres vivos",
+      "incorrectas": [
+        "El estudio de las células",
+        "El estudio de los fósiles",
+        "El estudio del sistema nervioso"
+      ]
+    },
+    "dificultad": "Medio"
+  },
+  {
+    "pregunta": "¿Cuál es el volcán más activo del mundo?",
+    "respuestas": {
+      "correcta": "Kilauea",
+      "incorrectas": ["Etna", "Vesubio", "Popocatépetl"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Qué es un ecosistema?",
+    "respuestas": {
+      "correcta": "Una comunidad de organismos vivos interactuando con su entorno no vivo",
+      "incorrectas": [
+        "Un tipo de clima",
+        "Una especie de animal",
+        "Una característica geográfica"
+      ]
+    },
+    "dificultad": "Medio"
+  },
+  {
+    "pregunta": "¿Cuál es el insecto más peligroso para los humanos?",
+    "respuestas": {
+      "correcta": "El mosquito",
+      "incorrectas": ["La abeja", "La araña", "La hormiga"]
+    },
+    "dificultad": "Medio"
+  },
+  {
+    "pregunta": "¿Cuál es el continente más grande del mundo?",
+    "respuestas": {
+      "correcta": "Asia",
+      "incorrectas": ["África", "América", "Europa"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es la temperatura media de la Tierra?",
+    "respuestas": {
+      "correcta": "Aproximadamente 15°C",
+      "incorrectas": [
+        "Aproximadamente 30°C",
+        "Aproximadamente 0°C",
+        "Aproximadamente 20°C"
+      ]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Cómo se llama el proceso de división celular?",
+    "respuestas": {
+      "correcta": "Mitosis",
+      "incorrectas": ["Meiosis", "Fotosíntesis", "Osmosis"]
+    },
+    "dificultad": "Medio"
+  },
+  {
+    "pregunta": "¿Qué es un fósil?",
+    "respuestas": {
+      "correcta": "Los restos o impresiones de un organismo de una era geológica pasada, conservados en la roca",
+      "incorrectas": [
+        "Una roca antigua",
+        "Un animal extinto",
+        "Un tipo de mineral"
+      ]
+    }
+  },
+
+  {
+    "pregunta": "¿Cuántos planetas en nuestro sistema solar tienen lunas?",
+    "respuestas": {
+      "correcta": "6",
+      "incorrectas": ["8", "4", "7"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Cuál es el órgano más pesado del cuerpo humano?",
+    "respuestas": {
+      "correcta": "Hígado",
+      "incorrectas": ["Cerebro", "Corazón", "Pulmones"]
+    },
+    "dificultad": "Medio"
+  },
+  {
+    "pregunta": "¿Qué es la biodiversidad?",
+    "respuestas": {
+      "correcta": "La variedad de vida en un hábitat o ecosistema",
+      "incorrectas": [
+        "La cantidad de agua en un ecosistema",
+        "El número de árboles en un bosque",
+        "La cantidad de oxígeno en la atmósfera"
+      ]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el animal más grande que ha pisado la tierra?",
+    "respuestas": {
+      "correcta": "Argentinosaurus",
+      "incorrectas": ["Tyrannosaurus rex", "Elefante africano", "Ballena azul"]
+    },
+    "dificultad": "Medio"
+  },
+  {
+    "pregunta": "¿Cómo se llama el punto más profundo del océano?",
+    "respuestas": {
+      "correcta": "Fosa de las Marianas",
+      "incorrectas": [
+        "Fosa de Atacama",
+        "Cuenca de Puerto Rico",
+        "Fosa de Java"
+      ]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
+    "respuestas": {
+      "correcta": "Aluminio",
+      "incorrectas": ["Hierro", "Oro", "Cobre"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Qué es un bioma?",
+    "respuestas": {
+      "correcta": "Una gran comunidad de plantas y animales que habitan una región geográfica específica",
+      "incorrectas": [
+        "Una especie de planta",
+        "Un tipo de roca",
+        "Una característica climática"
+      ]
+    },
+    "dificultad": "Medio"
+  },
+  {
+    "pregunta": "¿Cuál es el color del Sol?",
+    "respuestas": {
+      "correcta": "Blanco",
+      "incorrectas": ["Amarillo", "Naranja", "Rojo"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿En qué estado de la materia se encuentra el agua a temperatura ambiente?",
+    "respuestas": {
+      "correcta": "Líquido",
+      "incorrectas": ["Sólido", "Gas", "Plasma"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el animal más grande que vive actualmente en la Tierra?",
+    "respuestas": {
+      "correcta": "Ballena azul",
+      "incorrectas": ["Elefante africano", "Tiburón blanco", "Oso polar"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+    "respuestas": {
+      "correcta": "Mercurio",
+      "incorrectas": ["Venus", "Marte", "Tierra"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el insecto que produce luz?",
+    "respuestas": {
+      "correcta": "Luciérnaga",
+      "incorrectas": ["Abeja", "Hormiga", "Escarabajo"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Qué animal es conocido como el 'rey de la selva'?",
+    "respuestas": {
+      "correcta": "León",
+      "incorrectas": ["Tigre", "Elefante", "Gorila"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Qué estrella se encuentra más cerca de la Tierra?",
+    "respuestas": {
+      "correcta": "El Sol",
+      "incorrectas": ["Alpha Centauri", "Sirio", "Betelgeuse"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Qué animal tiene jorobas y vive en el desierto?",
+    "respuestas": {
+      "correcta": "Camello",
+      "incorrectas": ["Cabra montesa", "Escorpión", "Fénec"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el ave más grande del mundo?",
+    "respuestas": {
+      "correcta": "Avestruz",
+      "incorrectas": ["Águila", "Cóndor", "Pingüino emperador"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el árbol que pierde sus hojas en otoño?",
+    "respuestas": {
+      "correcta": "Árbol caducifolio",
+      "incorrectas": ["Árbol perenne", "Palmera", "Pino"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el animal más lento del mundo?",
+    "respuestas": {
+      "correcta": "Perezoso",
+      "incorrectas": ["Tortuga", "Caracol", "Koala"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el fruto del roble?",
+    "respuestas": {
+      "correcta": "Bellota",
+      "incorrectas": ["Manzana", "Nuez", "Pera"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el ave que puede volar hacia atrás?",
+    "respuestas": {
+      "correcta": "Colibrí",
+      "incorrectas": ["Aguila", "Búho", "Cuervo"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el mamífero más pequeño del mundo?",
+    "respuestas": {
+      "correcta": "Murciélago abejorro",
+      "incorrectas": ["Ratón", "Ardilla", "Conejo pigmeo"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es la flor que se asocia tradicionalmente con los Países Bajos?",
+    "respuestas": {
+      "correcta": "Tulipán",
+      "incorrectas": ["Rosa", "Girasol", "Orquídea"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuántos dientes tiene un humano adulto saludable?",
+    "respuestas": {
+      "correcta": "32",
+      "incorrectas": ["28", "30", "34"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el metal líquido a temperatura ambiente?",
+    "respuestas": {
+      "correcta": "Mercurio",
+      "incorrectas": ["Oro", "Plata", "Cobre"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cómo se llama el cambio de estado de sólido a gaseoso sin pasar por líquido?",
+    "respuestas": {
+      "correcta": "Sublimación",
+      "incorrectas": ["Fusión", "Vaporización", "Condensación"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el órgano que se encarga de bombear la sangre en el cuerpo humano?",
+    "respuestas": {
+      "correcta": "Corazón",
+      "incorrectas": ["Hígado", "Pulmones", "Riñones"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo?",
+    "respuestas": {
+      "correcta": "Pacífico",
+      "incorrectas": ["Atlántico", "Índico", "Ártico"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+    "respuestas": {
+      "correcta": "Fémur",
+      "incorrectas": ["Tibia", "Húmero", "Cúbito"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Qué gas es esencial para la respiración humana?",
+    "respuestas": {
+      "correcta": "Oxígeno",
+      "incorrectas": ["Dióxido de carbono", "Nitrógeno", "Helio"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es la montaña más alta del mundo?",
+    "respuestas": {
+      "correcta": "Everest",
+      "incorrectas": ["K2", "Kilimanjaro", "Elbrús"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Qué planeta es conocido como el 'Planeta Rojo'?",
+    "respuestas": {
+      "correcta": "Marte",
+      "incorrectas": ["Venus", "Júpiter", "Saturno"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuántas patas tiene una araña?",
+    "respuestas": {
+      "correcta": "8",
+      "incorrectas": ["6", "10", "4"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Qué animal es conocido por su canto al amanecer?",
+    "respuestas": {
+      "correcta": "Gallo",
+      "incorrectas": ["Búho", "Loro", "Cigüeña"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cómo se llama la ciencia que estudia los astros y los fenómenos que ocurren fuera de la atmósfera terrestre?",
+    "respuestas": {
+      "correcta": "Astronomía",
+      "incorrectas": ["Astrología", "Geografía", "Meteorología"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "respuestas": {
+      "correcta": "París",
+      "incorrectas": ["Lyon", "Marsella", "Bordeaux"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el animal más alto del mundo?",
+    "respuestas": {
+      "correcta": "Jirafa",
+      "incorrectas": ["Elefante", "Oso", "León"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Qué árbol da las bellotas?",
+    "respuestas": {
+      "correcta": "Roble",
+      "incorrectas": ["Pino", "Olmo", "Fresno"]
+    },
+    "dificultad": "Fácil"
+  }
+]

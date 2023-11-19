@@ -1,0 +1,29 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.navbar ul {
+  display: flex;
+  gap: 1rem;
+  justify-content: flex-start;
+  list-style-type: none;
+  padding: 1.5rem 2rem;
+}
+
+.navLink a {
+  background: #212121;
+  border-radius: 2rem;
+  padding: 0.5rem 1.125rem;
+}
+
+.navLink a:hover {
+  background: #414141;
+  /* color: #000; */
+}
+
+.navLink:last-child {
+  margin-inline-start: auto;
+}

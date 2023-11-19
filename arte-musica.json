@@ -1,0 +1,698 @@
+[
+  {
+    "pregunta": "¿Quién pintó la Mona Lisa?",
+    "respuestas": {
+      "correcta": "Leonardo da Vinci",
+      "incorrectas": ["Vincent van Gogh", "Pablo Picasso", "Claude Monet"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es la obra más famosa de Vincent van Gogh?",
+    "respuestas": {
+      "correcta": "La noche estrellada",
+      "incorrectas": [
+        "Los girasoles",
+        "El grito",
+        "La persistencia de la memoria"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Qué famoso pintor español es conocido por sus obras surrealistas?",
+    "respuestas": {
+      "correcta": "Salvador Dalí",
+      "incorrectas": ["Pablo Picasso", "Diego Velázquez", "Francisco Goya"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién compuso la famosa sinfonía 'Oda a la alegría'?",
+    "respuestas": {
+      "correcta": "Ludwig van Beethoven",
+      "incorrectas": [
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "Richard Wagner"
+      ]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso cuadro de Edvard Munch que representa una figura con una expresión de angustia?",
+    "respuestas": {
+      "correcta": "El grito",
+      "incorrectas": [
+        "La última cena",
+        "La persistencia de la memoria",
+        "La noche estrellada"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién fue el compositor del famoso ballet 'El lago de los cisnes'?",
+    "respuestas": {
+      "correcta": "Piotr Ilich Chaikovski",
+      "incorrectas": ["Johann Strauss II", "Igor Stravinski", "Franz Schubert"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso pintor renacentista italiano conocido por sus frescos en la Capilla Sixtina?",
+    "respuestas": {
+      "correcta": "Miguel Ángel",
+      "incorrectas": ["Rafael Sanzio", "Leonardo da Vinci", "Donatello"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién es considerado el padre del impresionismo en la pintura?",
+    "respuestas": {
+      "correcta": "Claude Monet",
+      "incorrectas": ["Pablo Picasso", "Vincent van Gogh", "Edgar Degas"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor alemán conocido por sus sinfonías y óperas?",
+    "respuestas": {
+      "correcta": "Johann Sebastian Bach",
+      "incorrectas": [
+        "Franz Schubert",
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso cuadro de Leonardo da Vinci que representa a Jesús y sus discípulos en la última cena?",
+    "respuestas": {
+      "correcta": "La última cena",
+      "incorrectas": [
+        "La persistencia de la memoria",
+        "El grito",
+        "La noche estrellada"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso pintor impresionista francés conocido por sus nenúfares?",
+    "respuestas": {
+      "correcta": "Claude Monet",
+      "incorrectas": ["Pablo Picasso", "Vincent van Gogh", "Edgar Degas"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa escultura 'El pensador'?",
+    "respuestas": {
+      "correcta": "Auguste Rodin",
+      "incorrectas": ["Michelangelo", "Pablo Picasso", "Leonardo da Vinci"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor austriaco conocido por sus sinfonías y música de cámara?",
+    "respuestas": {
+      "correcta": "Wolfgang Amadeus Mozart",
+      "incorrectas": [
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Franz Schubert"
+      ]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién pintó el famoso cuadro 'La noche estrellada'?",
+    "respuestas": {
+      "correcta": "Vincent van Gogh",
+      "incorrectas": ["Pablo Picasso", "Claude Monet", "Salvador Dalí"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la famosa ópera italiana compuesta por Giacomo Puccini?",
+    "respuestas": {
+      "correcta": "La Bohème",
+      "incorrectas": ["Carmen", "El Barbero de Sevilla", "Tosca"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'La persistencia de la memoria'?",
+    "respuestas": {
+      "correcta": "Salvador Dalí",
+      "incorrectas": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la famosa escultura en mármol blanco que representa al dios griego del amor, Eros?",
+    "respuestas": {
+      "correcta": "El David",
+      "incorrectas": [
+        "La Venus de Milo",
+        "La Piedad",
+        "La Victoria de Samotracia"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'La persistencia de la memoria'?",
+    "respuestas": {
+      "correcta": "Salvador Dalí",
+      "incorrectas": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la famosa ópera alemana compuesta por Richard Wagner?",
+    "respuestas": {
+      "correcta": "El anillo del nibelungo",
+      "incorrectas": ["Carmen", "La Traviata", "Tosca"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del movimiento artístico que surgió en Italia en el siglo XIV y se caracteriza por su uso de la perspectiva y el realismo?",
+    "respuestas": {
+      "correcta": "Renacimiento",
+      "incorrectas": ["Barroco", "Impresionismo", "Cubismo"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién compuso la famosa ópera 'La flauta mágica'?",
+    "respuestas": {
+      "correcta": "Wolfgang Amadeus Mozart",
+      "incorrectas": [
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Franz Schubert"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso escultor italiano conocido por sus obras como 'David' y 'La 'Piedad'?",
+    "respuestas": {
+      "correcta": "Miguel Ángel",
+      "incorrectas": ["Leonardo da Vinci", "Donatello", "Rafael Sanzio"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'Guernica'?",
+    "respuestas": {
+      "correcta": "Pablo Picasso",
+      "incorrectas": ["Salvador Dalí", "Vincent van Gogh", "Claude Monet"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso ballet ruso que cuenta la historia de una joven que es convertida en cisne por un hechizo?",
+    "respuestas": {
+      "correcta": "El lago de los cisnes",
+      "incorrectas": ["El cascanueces", "Romeo y Julieta", "La bella durmiente"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso pintor holandés conocido por sus autorretratos y la pintura 'La noche estrellada'?",
+    "respuestas": {
+      "correcta": "Vincent van Gogh",
+      "incorrectas": ["Pablo Picasso", "Claude Monet", "Salvador Dalí"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa escultura 'El beso'?",
+    "respuestas": {
+      "correcta": "Auguste Rodin",
+      "incorrectas": ["Michelangelo", "Pablo Picasso", "Leonardo da Vinci"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor ruso conocido por sus sinfonías y ballets como 'El cascanueces'?",
+    "respuestas": {
+      "correcta": "Piotr Ilich Chaikovski",
+      "incorrectas": ["Johann Strauss II", "Igor Stravinski", "Franz Schubert"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso escultor francés conocido por la creación de la Estatua de la Libertad?",
+    "respuestas": {
+      "correcta": "Auguste Bartholdi",
+      "incorrectas": ["Michelangelo", "Pablo Picasso", "Leonardo da Vinci"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién compuso la famosa sinfonía 'La Novena'?",
+    "respuestas": {
+      "correcta": "Ludwig van Beethoven",
+      "incorrectas": [
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "Richard Wagner"
+      ]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso pintor español conocido por su estilo surrealista y sus obras como 'La persistencia de la memoria'?",
+    "respuestas": {
+      "correcta": "Salvador Dalí",
+      "incorrectas": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién fue el compositor del famoso ballet 'El lago de los cisnes'?",
+    "respuestas": {
+      "correcta": "Piotr Ilich Chaikovski",
+      "incorrectas": ["Johann Strauss II", "Igor Stravinski", "Franz Schubert"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso pintor renacentista italiano conocido por sus frescos en la Capilla Sixtina?",
+    "respuestas": {
+      "correcta": "Miguel Ángel",
+      "incorrectas": ["Rafael Sanzio", "Leonardo da Vinci", "Donatello"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién es considerado el padre del impresionismo en la pintura?",
+    "respuestas": {
+      "correcta": "Claude Monet",
+      "incorrectas": ["Pablo Picasso", "Vincent van Gogh", "Edgar Degas"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor alemán conocido por sus sinfonías y óperas?",
+    "respuestas": {
+      "correcta": "Johann Sebastian Bach",
+      "incorrectas": [
+        "Franz Schubert",
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'El nacimiento de Venus'?",
+    "respuestas": {
+      "correcta": "Sandro Botticelli",
+      "incorrectas": ["Leonardo da Vinci", "Pablo Picasso", "Michelangelo"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor austríaco conocido por sus valses como 'El Danubio Azul'?",
+    "respuestas": {
+      "correcta": "Johann Strauss II",
+      "incorrectas": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Franz Schubert"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso pintor español conocido por su estilo cubista y su obra 'Guernica'?",
+    "respuestas": {
+      "correcta": "Pablo Picasso",
+      "incorrectas": ["Salvador Dalí", "Vincent van Gogh", "Claude Monet"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso cuadro de Edvard Munch que representa una figura con una expresión de angustia?",
+    "respuestas": {
+      "correcta": "El grito",
+      "incorrectas": [
+        "La última cena",
+        "La persistencia de la memoria",
+        "La noche estrellada"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor alemán conocido por su obra 'Für Elise'?",
+    "respuestas": {
+      "correcta": "Ludwig van Beethoven",
+      "incorrectas": [
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "Franz Schubert"
+      ]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso escultor italiano conocido por sus obras como 'David' y 'La Piedad'?",
+    "respuestas": {
+      "correcta": "Michelangelo",
+      "incorrectas": ["Auguste Rodin", "Pablo Picasso", "Leonardo da Vinci"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'La noche estrellada'?",
+    "respuestas": {
+      "correcta": "Vincent van Gogh",
+      "incorrectas": ["Pablo Picasso", "Claude Monet", "Salvador Dalí"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor austríaco conocido por su obra 'Las cuatro estaciones'?",
+    "respuestas": {
+      "correcta": "Antonio Vivaldi",
+      "incorrectas": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'Los girasoles'?",
+    "respuestas": {
+      "correcta": "Vincent van Gogh",
+      "incorrectas": ["Pablo Picasso", "Claude Monet", "Salvador Dalí"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor ruso conocido por su obra 'El cascanueces'?",
+    "respuestas": {
+      "correcta": "Piotr Ilich Chaikovski",
+      "incorrectas": ["Johann Strauss II", "Igor Stravinski", "Franz Schubert"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'La última cena'?",
+    "respuestas": {
+      "correcta": "Leonardo da Vinci",
+      "incorrectas": ["Rafael Sanzio", "Michelangelo", "Donatello"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso pintor holandés conocido por sus obras como 'La ronda de noche'?",
+    "respuestas": {
+      "correcta": "Rembrandt",
+      "incorrectas": ["Vincent van Gogh", "Johannes Vermeer", "Piet Mondrian"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién compuso la famosa ópera 'Carmen'?",
+    "respuestas": {
+      "correcta": "Georges Bizet",
+      "incorrectas": [
+        "Giacomo Puccini",
+        "Wolfgang Amadeus Mozart",
+        "Richard Wagner"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso escultor italiano conocido por su escultura 'La Piedad'?",
+    "respuestas": {
+      "correcta": "Michelangelo",
+      "incorrectas": ["Auguste Rodin", "Pablo Picasso", "Leonardo da Vinci"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién es considerado el padre del cubismo en la pintura?",
+    "respuestas": {
+      "correcta": "Pablo Picasso",
+      "incorrectas": ["Salvador Dalí", "Vincent van Gogh", "Claude Monet"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor alemán conocido por su obra 'Carmina Burana'?",
+    "respuestas": {
+      "correcta": "Carl Orff",
+      "incorrectas": [
+        "Johann Sebastian Bach",
+        "Ludwig van Beethoven",
+        "Franz Schubert"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'La Gioconda'?",
+    "respuestas": {
+      "correcta": "Leonardo da Vinci",
+      "incorrectas": ["Rafael Sanzio", "Michelangelo", "Donatello"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor ruso conocido por su obra 'Scheherazade'?",
+    "respuestas": {
+      "correcta": "Nikolai Rimsky-Korsakov",
+      "incorrectas": ["Johann Strauss II", "Igor Stravinski", "Franz Schubert"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'La noche estrellada'?",
+    "respuestas": {
+      "correcta": "Vincent van Gogh",
+      "incorrectas": ["Pablo Picasso", "Claude Monet", "Salvador Dalí"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor austríaco conocido por su obra 'Sinfonía del Nuevo Mundo'?",
+    "respuestas": {
+      "correcta": "Antonin Dvorak",
+      "incorrectas": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'El beso'?",
+    "respuestas": {
+      "correcta": "Gustav Klimt",
+      "incorrectas": ["Auguste Rodin", "Pablo Picasso", "Leonardo da Vinci"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor italiano conocido por sus óperas como 'La Traviata'?",
+    "respuestas": {
+      "correcta": "Giuseppe Verdi",
+      "incorrectas": [
+        "Giacomo Puccini",
+        "Wolfgang Amadeus Mozart",
+        "Richard Wagner"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor alemán conocido por su obra 'El Mesías'?",
+    "respuestas": {
+      "correcta": "Georg Friedrich Händel",
+      "incorrectas": [
+        "Johann Sebastian Bach",
+        "Ludwig van Beethoven",
+        "Franz Schubert"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'La persistencia de la memoria'?",
+    "respuestas": {
+      "correcta": "Salvador Dalí",
+      "incorrectas": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor ruso conocido por su obra 'El cascanueces'?",
+    "respuestas": {
+      "correcta": "Piotr Ilich Chaikovski",
+      "incorrectas": ["Johann Strauss II", "Igor Stravinski", "Franz Schubert"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'La noche estrellada'?",
+    "respuestas": {
+      "correcta": "Vincent van Gogh",
+      "incorrectas": ["Pablo Picasso", "Claude Monet", "Salvador Dalí"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor austríaco conocido por su obra 'Las cuatro estaciones'?",
+    "respuestas": {
+      "correcta": "Antonio Vivaldi",
+      "incorrectas": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'Los girasoles'?",
+    "respuestas": {
+      "correcta": "Vincent van Gogh",
+      "incorrectas": ["Pablo Picasso", "Claude Monet", "Salvador Dalí"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor ruso conocido por su obra 'El lago de los cisnes'?",
+    "respuestas": {
+      "correcta": "Piotr Ilich Chaikovski",
+      "incorrectas": ["Johann Strauss II", "Igor Stravinski", "Franz Schubert"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'La última cena'?",
+    "respuestas": {
+      "correcta": "Leonardo da Vinci",
+      "incorrectas": ["Rafael Sanzio", "Michelangelo", "Donatello"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor alemán conocido por su obra 'Carmina Burana'?",
+    "respuestas": {
+      "correcta": "Carl Orff",
+      "incorrectas": [
+        "Johann Sebastian Bach",
+        "Ludwig van Beethoven",
+        "Franz Schubert"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso pintor renacentista italiano conocido por su obra 'La última cena'?",
+    "respuestas": {
+      "correcta": "Leonardo da Vinci",
+      "incorrectas": ["Rafael Sanzio", "Michelangelo", "Donatello"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién es considerado el padre del impresionismo en la pintura?",
+    "respuestas": {
+      "correcta": "Claude Monet",
+      "incorrectas": ["Pablo Picasso", "Vincent van Gogh", "Edgar Degas"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor alemán conocido por sus sinfonías y óperas?",
+    "respuestas": {
+      "correcta": "Johann Sebastian Bach",
+      "incorrectas": [
+        "Franz Schubert",
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven"
+      ]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'La Gioconda'?",
+    "respuestas": {
+      "correcta": "Leonardo da Vinci",
+      "incorrectas": ["Rafael Sanzio", "Michelangelo", "Donatello"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor austríaco conocido por sus valses como 'El Danubio Azul'?",
+    "respuestas": {
+      "correcta": "Johann Strauss II",
+      "incorrectas": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Franz Schubert"
+      ]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'El nacimiento de Venus'?",
+    "respuestas": {
+      "correcta": "Sandro Botticelli",
+      "incorrectas": ["Leonardo da Vinci", "Pablo Picasso", "Michelangelo"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso pintor holandés conocido por su obra 'La ronda de noche'?",
+    "respuestas": {
+      "correcta": "Rembrandt",
+      "incorrectas": ["Vincent van Gogh", "Johannes Vermeer", "Piet Mondrian"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién es el autor de la famosa pintura 'La última cena'?",
+    "respuestas": {
+      "correcta": "Leonardo da Vinci",
+      "incorrectas": ["Rafael Sanzio", "Michelangelo", "Donatello"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién es considerado el padre del impresionismo en la pintura?",
+    "respuestas": {
+      "correcta": "Claude Monet",
+      "incorrectas": ["Pablo Picasso", "Vincent van Gogh", "Edgar Degas"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del famoso compositor alemán conocido por sus sinfonías y óperas?",
+    "respuestas": {
+      "correcta": "Johann Sebastian Bach",
+      "incorrectas": [
+        "Franz Schubert",
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven"
+      ]
+    },
+    "dificultad": "Fácil"
+  }
+]

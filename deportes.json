@@ -1,0 +1,338 @@
+[
+  {
+    "pregunta": "¿Dónde se celebró la Copa del Mundo de Fútbol de 2010?",
+    "respuestas": {
+      "correcta": "Sudáfrica",
+      "incorrectas": ["Brasil", "Alemania", "España"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el deporte más antiguo del mundo?",
+    "respuestas": {
+      "correcta": "Lucha libre",
+      "incorrectas": ["Fútbol", "Hockey", "Críquet"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el país con más medallas olímpicas en total?",
+    "respuestas": {
+      "correcta": "Estados Unidos",
+      "incorrectas": ["Rusia", "China", "Alemania"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Quién ostenta el récord de más victorias en el Tour de Francia?",
+    "respuestas": {
+      "correcta": "Eddy Merckx",
+      "incorrectas": ["Lance Armstrong", "Bernard Hinault", "Miguel Indurain"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Qué país ganó la Copa Mundial de Rugby de 2019?",
+    "respuestas": {
+      "correcta": "Sudáfrica",
+      "incorrectas": ["Nueva Zelanda", "Inglaterra", "Australia"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el clásico rival de Boca Juniors en Argentina?",
+    "respuestas": {
+      "correcta": "River Plate",
+      "incorrectas": ["Independiente", "Racing Club", "San Lorenzo"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuántas veces ha ganado Argentina la Copa del Mundo de Fútbol?",
+    "respuestas": {
+      "correcta": "2",
+      "incorrectas": ["1", "3", "4"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es el máximo goleador de la historia de la selección argentina de fútbol?",
+    "respuestas": {
+      "correcta": "Lionel Messi",
+      "incorrectas": ["Diego Maradona", "Gabriel Batistuta", "Hernán Crespo"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿En qué año se fundó el Club Atlético Independiente?",
+    "respuestas": {
+      "correcta": "1905",
+      "incorrectas": ["1902", "1910", "1895"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Qué club argentino ganó la Copa Libertadores por primera vez en 1960?",
+    "respuestas": {
+      "correcta": "Independiente",
+      "incorrectas": ["River Plate", "Boca Juniors", "Estudiantes de La Plata"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Quién es conocido como el 'Rey del Fútbol'?",
+    "respuestas": {
+      "correcta": "Pelé",
+      "incorrectas": ["Diego Maradona", "Lionel Messi", "Cristiano Ronaldo"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Qué deporte representa la NBA?",
+    "respuestas": {
+      "correcta": "Baloncesto",
+      "incorrectas": ["Fútbol", "Béisbol", "Hockey"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Dónde se celebrarán los Juegos Olímpicos de Verano de 2024?",
+    "respuestas": {
+      "correcta": "París",
+      "incorrectas": ["Tokio", "Londres", "Los Ángeles"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Qué país ganó la primera Copa del Mundo de Fútbol?",
+    "respuestas": {
+      "correcta": "Uruguay",
+      "incorrectas": ["Argentina", "Brasil", "Inglaterra"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Qué jugador de baloncesto es conocido como 'Air Jordan'?",
+    "respuestas": {
+      "correcta": "Michael Jordan",
+      "incorrectas": ["LeBron James", "Kobe Bryant", "Shaquille O'Neal"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién es conocido como 'El Diego' en el fútbol argentino?",
+    "respuestas": {
+      "correcta": "Diego Maradona",
+      "incorrectas": [
+        "Lionel Messi",
+        "Juan Román Riquelme",
+        "Gabriel Batistuta"
+      ]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del estadio de River Plate?",
+    "respuestas": {
+      "correcta": "Monumental",
+      "incorrectas": ["La Bombonera", "Cilindro", "Libertadores de América"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién anotó el 'Gol del Siglo' en la Copa del Mundo de 1986?",
+    "respuestas": {
+      "correcta": "Diego Maradona",
+      "incorrectas": ["Jorge Valdano", "Jorge Burruchaga", "Claudio Caniggia"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el deporte más popular en Argentina?",
+    "respuestas": {
+      "correcta": "Fútbol",
+      "incorrectas": ["Rugby", "Polo", "Tenis"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Qué equipo argentino es conocido como 'El Millonario'?",
+    "respuestas": {
+      "correcta": "River Plate",
+      "incorrectas": ["Boca Juniors", "Independiente", "Racing Club"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuántos jugadores hay en un equipo de fútbol en el campo?",
+    "respuestas": {
+      "correcta": "11",
+      "incorrectas": ["10", "12", "9"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Qué país ha ganado más Copas del Mundo de Fútbol?",
+    "respuestas": {
+      "correcta": "Brasil",
+      "incorrectas": ["Argentina", "Alemania", "Italia"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién es el máximo goleador en la historia de la Copa del Mundo de Fútbol?",
+    "respuestas": {
+      "correcta": "Miroslav Klose",
+      "incorrectas": ["Ronaldo", "Pelé", "Just Fontaine"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Qué jugador de baloncesto es conocido como 'Magic'?",
+    "respuestas": {
+      "correcta": "Magic Johnson",
+      "incorrectas": ["Michael Jordan", "Kobe Bryant", "LeBron James"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Qué país ha ganado más medallas de oro en los Juegos Olímpicos de Verano?",
+    "respuestas": {
+      "correcta": "Estados Unidos",
+      "incorrectas": ["China", "Rusia", "Alemania"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Quién es el máximo goleador en la historia de la UEFA Champions League?",
+    "respuestas": {
+      "correcta": "Cristiano Ronaldo",
+      "incorrectas": ["Lionel Messi", "Raúl González", "Robert Lewandowski"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Qué deporte juega Tiger Woods?",
+    "respuestas": {
+      "correcta": "Golf",
+      "incorrectas": ["Tenis", "Béisbol", "Baloncesto"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Dónde se celebró la Copa del Mundo de Fútbol de 1994?",
+    "respuestas": {
+      "correcta": "Estados Unidos",
+      "incorrectas": ["Brasil", "Italia", "Francia"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Qué país ha ganado más Copas del Mundo de Rugby?",
+    "respuestas": {
+      "correcta": "Nueva Zelanda",
+      "incorrectas": ["Sudáfrica", "Inglaterra", "Australia"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador de tenis ha ganado más títulos de Grand Slam en la historia?",
+    "respuestas": {
+      "correcta": "Margaret Court",
+      "incorrectas": ["Serena Williams", "Steffi Graf", "Martina Navratilova"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Cuántas Copas América ha ganado la selección argentina de fútbol?",
+    "respuestas": {
+      "correcta": "15",
+      "incorrectas": ["14", "16", "13"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del estadio de Boca Juniors?",
+    "respuestas": {
+      "correcta": "La Bombonera",
+      "incorrectas": ["Monumental", "Cilindro", "Libertadores de América"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Quién anotó el gol con la 'Mano de Dios' en la Copa del Mundo de 1986?",
+    "respuestas": {
+      "correcta": "Diego Maradona",
+      "incorrectas": ["Jorge Valdano", "Jorge Burruchaga", "Claudio Caniggia"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el deporte nacional de Argentina?",
+    "respuestas": {
+      "correcta": "Pato",
+      "incorrectas": ["Fútbol", "Rugby", "Polo"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Quién es el máximo goleador en la historia de Boca Juniors?",
+    "respuestas": {
+      "correcta": "Martín Palermo",
+      "incorrectas": [
+        "Carlos Tevez",
+        "Diego Maradona",
+        "Guillermo Barros Schelotto"
+      ]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del estadio de Racing Club?",
+    "respuestas": {
+      "correcta": "El Cilindro",
+      "incorrectas": ["La Bombonera", "Monumental", "Libertadores de América"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del estadio de Racing Club?",
+    "respuestas": {
+      "correcta": "El Cilindro",
+      "incorrectas": ["La Bombonera", "Monumental", "Libertadores de América"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del estadio de San Lorenzo?",
+    "respuestas": {
+      "correcta": "Nuevo Gasómetro",
+      "incorrectas": ["Monumental", "Cilindro", "La Bombonera"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿En qué año ganó Argentina su última Copa América hasta la fecha?",
+    "respuestas": {
+      "correcta": "2021",
+      "incorrectas": ["2019", "2015", "1993"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Qué equipo argentino es conocido como 'El Xeneize'?",
+    "respuestas": {
+      "correcta": "Boca Juniors",
+      "incorrectas": ["River Plate", "Independiente", "Racing Club"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Qué equipo argentino es conocido como 'El Ciclón'?",
+    "respuestas": {
+      "correcta": "San Lorenzo",
+      "incorrectas": ["River Plate", "Boca Juniors", "Independiente"]
+    },
+    "dificultad": "Fácil"
+  }
+]

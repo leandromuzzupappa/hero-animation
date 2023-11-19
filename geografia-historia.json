@@ -1,0 +1,622 @@
+[
+  {
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "respuestas": {
+      "correcta": "París",
+      "incorrectas": ["Berlín", "Londres", "Madrid"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo?",
+    "respuestas": {
+      "correcta": "Amazonas",
+      "incorrectas": ["Nilo", "Mississippi", "Yangtsé"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿En qué continente se encuentra la Gran Muralla China?",
+    "respuestas": {
+      "correcta": "Asia",
+      "incorrectas": ["Europa", "África", "América"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el país más grande del mundo por superficie?",
+    "respuestas": {
+      "correcta": "Rusia",
+      "incorrectas": ["China", "Estados Unidos", "Canadá"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál fue la civilización que construyó las pirámides de Giza?",
+    "respuestas": {
+      "correcta": "Egipto",
+      "incorrectas": ["Mayas", "Aztecas", "Incas"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿En qué año se descubrió América por Cristóbal Colón?",
+    "respuestas": {
+      "correcta": "1492",
+      "incorrectas": ["1500", "1453", "1521"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Cuál es el país más poblado del mundo?",
+    "respuestas": {
+      "correcta": "China",
+      "incorrectas": ["India", "Estados Unidos", "Brasil"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es la montaña más alta del mundo?",
+    "respuestas": {
+      "correcta": "Monte Everest",
+      "incorrectas": ["Monte Kilimanjaro", "Monte Aconcagua", "Monte McKinley"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿En qué año se inició la Primera Guerra Mundial?",
+    "respuestas": {
+      "correcta": "1914",
+      "incorrectas": ["1900", "1920", "1939"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Cuál fue el primer país en enviar un ser humano al espacio?",
+    "respuestas": {
+      "correcta": "Unión Soviética",
+      "incorrectas": ["Estados Unidos", "China", "Francia"]
+    },
+    "dificultad": "Difícil"
+  },
+  {
+    "pregunta": "¿Cuál es el país más pequeño del mundo?",
+    "respuestas": {
+      "correcta": "Ciudad del Vaticano",
+      "incorrectas": ["Mónaco", "Nauru", "Tuvalu"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿En qué año se fundó la Organización de las Naciones Unidas (ONU)?",
+    "respuestas": {
+      "correcta": "1945",
+      "incorrectas": ["1919", "1939", "1955"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿Cuál es la ciudad más poblada de África?",
+    "respuestas": {
+      "correcta": "Lagos",
+      "incorrectas": ["El Cairo", "Johannesburgo", "Kinshasa"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿En qué año se firmó el Tratado de Versalles que puso fin a la Primera Guerra Mundial?",
+    "respuestas": {
+      "correcta": "1919",
+      "incorrectas": ["1914", "1920", "1939"]
+    },
+    "dificultad": "Difícil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo?",
+    "respuestas": {
+      "correcta": "Pacífico",
+      "incorrectas": ["Atlántico", "Índico", "Ártico"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es la lengua más hablada del mundo?",
+    "respuestas": {
+      "correcta": "Chino mandarín",
+      "incorrectas": ["Español", "Inglés", "Hindi"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿En qué país se encuentra la ciudad de Machu Picchu?",
+    "respuestas": {
+      "correcta": "Perú",
+      "incorrectas": ["México", "Colombia", "Brasil"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el continente con mayor número de países?",
+    "respuestas": {
+      "correcta": "África",
+      "incorrectas": ["Europa", "Asia", "América"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿En qué año se produjo la Revolución Rusa?",
+    "respuestas": {
+      "correcta": "1917",
+      "incorrectas": ["1905", "1920", "1939"]
+    },
+    "dificultad": "Difícil"
+  },
+
+  {
+    "pregunta": "¿Cuál fue la última dinastía de emperadores en China?",
+    "respuestas": {
+      "correcta": "Qing",
+      "incorrectas": ["Ming", "Han", "Tang"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo de África?",
+    "respuestas": {
+      "correcta": "Nilo",
+      "incorrectas": ["Congo", "Níger", "Zambeze"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+    "respuestas": {
+      "correcta": "1776",
+      "incorrectas": ["1789", "1804", "1812"]
+    },
+    "dificultad": "Difícil"
+  },
+
+  {
+    "pregunta": "¿Cuál es la cordillera más larga del mundo?",
+    "respuestas": {
+      "correcta": "Los Andes",
+      "incorrectas": ["Himalayas", "Montañas Rocosas", "Alpes"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿En qué año se llevó a cabo la Revolución Francesa?",
+    "respuestas": {
+      "correcta": "1789",
+      "incorrectas": ["1776", "1804", "1812"]
+    },
+    "dificultad": "Difícil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el país más extenso de América del Sur?",
+    "respuestas": {
+      "correcta": "Brasil",
+      "incorrectas": ["Argentina", "Perú", "Colombia"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es la ciudad más antigua del continente americano?",
+    "respuestas": {
+      "correcta": "Cuzco",
+      "incorrectas": ["Ciudad de México", "La Habana", "Santo Domingo"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿En qué año se llevó a cabo la Revolución Industrial?",
+    "respuestas": {
+      "correcta": "1760",
+      "incorrectas": ["1820", "1900", "1950"]
+    },
+    "dificultad": "Difícil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el país más grande de Europa?",
+    "respuestas": {
+      "correcta": "Rusia",
+      "incorrectas": ["Francia", "Alemania", "España"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál fue el primer país en lanzar un satélite al espacio?",
+    "respuestas": {
+      "correcta": "Unión Soviética",
+      "incorrectas": ["Estados Unidos", "China", "Japón"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿En qué año se llevó a cabo la caída del Muro de Berlín?",
+    "respuestas": {
+      "correcta": "1989",
+      "incorrectas": ["1979", "1991", "2000"]
+    },
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿Cuál es el país más grande de América del Norte?",
+    "respuestas": {
+      "correcta": "Canadá",
+      "incorrectas": ["Estados Unidos", "México", "Cuba"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el lago más grande de América del Sur?",
+    "respuestas": {
+      "correcta": "Lago Titicaca",
+      "incorrectas": ["Lago Maracaibo", "Lago de Atitlán", "Lago Nahuel Huapi"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿En qué continente se encuentra el desierto del Sahara?",
+    "respuestas": {
+      "correcta": "África",
+      "incorrectas": ["Asia", "América", "Europa"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el país más poblado de Europa?",
+    "respuestas": {
+      "correcta": "Rusia",
+      "incorrectas": ["Alemania", "Francia", "Reino Unido"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el monumento más famoso de India?",
+    "respuestas": {
+      "correcta": "Taj Mahal",
+      "incorrectas": [
+        "Templo de Angkor Wat",
+        "Gran Muralla China",
+        "Coliseo Romano"
+      ]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el idioma oficial de Brasil?",
+    "respuestas": {
+      "correcta": "Portugués",
+      "incorrectas": ["Español", "Inglés", "Francés"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿En qué país se encuentra la Torre Eiffel?",
+    "respuestas": {
+      "correcta": "Francia",
+      "incorrectas": ["Italia", "España", "Alemania"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el país más pequeño de América Central?",
+    "respuestas": {
+      "correcta": "El Salvador",
+      "incorrectas": ["Belice", "Costa Rica", "Honduras"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿En qué país se encuentra la Acrópolis de Atenas?",
+    "respuestas": {
+      "correcta": "Grecia",
+      "incorrectas": ["Italia", "Egipto", "Turquía"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es la montaña más alta de América del Norte?",
+    "respuestas": {
+      "correcta": "Monte Denali",
+      "incorrectas": ["Monte Everest", "Monte Kilimanjaro", "Monte Aconcagua"]
+    },
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el país más poblado de África?",
+    "respuestas": {
+      "correcta": "Nigeria",
+      "incorrectas": ["Egipto", "Etiopía", "Sudáfrica"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el país más grande de Oceanía?",
+    "respuestas": {
+      "correcta": "Australia",
+      "incorrectas": ["Nueva Zelanda", "Papúa Nueva Guinea", "Fiyi"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el país más pequeño de Asia?",
+    "respuestas": {
+      "correcta": "Maldivas",
+      "incorrectas": ["Singapur", "Bahréin", "Brunei"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿En qué país se encuentra la ciudad de Petra, conocida como la Ciudad Rosa?",
+    "respuestas": {
+      "correcta": "Jordania",
+      "incorrectas": ["Israel", "Egipto", "Líbano"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el río más largo de Europa?",
+    "respuestas": {
+      "correcta": "Volga",
+      "incorrectas": ["Danubio", "Rin", "Támesis"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿En qué país se encuentra el Parque Nacional de Yellowstone?",
+    "respuestas": {
+      "correcta": "Estados Unidos",
+      "incorrectas": ["Canadá", "México", "Australia"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el país más pequeño de Europa?",
+    "respuestas": {
+      "correcta": "Ciudad del Vaticano",
+      "incorrectas": ["Mónaco", "San Marino", "Andorra"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿En qué país se encuentra la Gran Barrera de Coral?",
+    "respuestas": {
+      "correcta": "Australia",
+      "incorrectas": ["Filipinas", "Indonesia", "Maldivas"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el país más poblado del mundo?",
+    "respuestas": {
+      "correcta": "China",
+      "incorrectas": ["India", "Estados Unidos", "Brasil"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿En qué país se encuentra el Monte Fuji?",
+    "respuestas": {
+      "correcta": "Japón",
+      "incorrectas": ["China", "Corea del Sur", "Tailandia"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el país más poblado de América del Sur?",
+    "respuestas": {
+      "correcta": "Brasil",
+      "incorrectas": ["Argentina", "Colombia", "Perú"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿En qué año se llevó a cabo la Revolución Industrial?",
+    "respuestas": {
+      "correcta": "1760",
+      "incorrectas": ["1820", "1848", "1880"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿Cuál es la capital de Australia?",
+    "respuestas": {
+      "correcta": "Canberra",
+      "incorrectas": ["Sídney", "Melbourne", "Brisbane"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿En qué año se fundó la ciudad de Roma?",
+    "respuestas": {
+      "correcta": "753 a.C.",
+      "incorrectas": ["500 a.C.", "200 a.C.", "100 a.C."]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿Cuál es el país más grande de África?",
+    "respuestas": {
+      "correcta": "Argelia",
+      "incorrectas": ["Sudán", "República Democrática del Congo", "Libia"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿En qué país se encuentra la ciudad de Estambul?",
+    "respuestas": {
+      "correcta": "Turquía",
+      "incorrectas": ["Grecia", "Egipto", "Italia"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿Cuál es la montaña más alta de Europa?",
+    "respuestas": {
+      "correcta": "Monte Elbrus",
+      "incorrectas": ["Monte Blanc", "Monte Cervino", "Monte Etna"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿En qué continente se encuentra el país de Indonesia?",
+    "respuestas": {
+      "correcta": "Asia",
+      "incorrectas": ["Oceanía", "África", "América"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿Cuál es la ciudad más poblada de América del Norte?",
+    "respuestas": {
+      "correcta": "Ciudad de México",
+      "incorrectas": ["Nueva York", "Los Ángeles", "Chicago"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿En qué año se llevó a cabo la Revolución Mexicana?",
+    "respuestas": {
+      "correcta": "1910",
+      "incorrectas": ["1821", "1850", "1920"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿Cuál es el país más pequeño de América Central?",
+    "respuestas": {
+      "correcta": "El Salvador",
+      "incorrectas": ["Belice", "Costa Rica", "Honduras"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿En qué año se llevó a cabo la caída del Muro de Berlín?",
+    "respuestas": {
+      "correcta": "1989",
+      "incorrectas": ["1979", "1991", "2000"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿Cuál es el país más pequeño de Europa?",
+    "respuestas": {
+      "correcta": "Ciudad del Vaticano",
+      "incorrectas": ["Mónaco", "San Marino", "Andorra"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿En qué país se encuentra la Gran Barrera de Coral?",
+    "respuestas": {
+      "correcta": "Australia",
+      "incorrectas": ["Filipinas", "Indonesia", "Maldivas"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el país más poblado del mundo?",
+    "respuestas": {
+      "correcta": "China",
+      "incorrectas": ["India", "Estados Unidos", "Brasil"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿En qué país se encuentra el Monte Fuji?",
+    "respuestas": {
+      "correcta": "Japón",
+      "incorrectas": ["China", "Corea del Sur", "Tailandia"]
+    },
+    "dificultad": "Fácil"
+  },
+
+  {
+    "pregunta": "¿Cuál es el río más largo de América del Sur?",
+    "respuestas": {
+      "correcta": "Amazonas",
+      "incorrectas": ["Paraná", "Orinoco", "Magdalena"]
+    },
+    "dificultad": "Media"
+  },
+
+  {
+    "pregunta": "¿En qué año se llevó a cabo la Revolución Rusa?",
+    "respuestas": {
+      "correcta": "1917",
+      "incorrectas": ["1905", "1920", "1939"]
+    },
+    "dificultad": "Difícil"
+  },
+
+  {
+    "pregunta": "¿Cuál fue el primer país en enviar un ser humano al espacio?",
+    "respuestas": {
+      "correcta": "Unión Soviética",
+      "incorrectas": ["Estados Unidos", "China", "Francia"]
+    },
+    "dificultad": "Difícil"
+  },
+
+  {
+    "pregunta": "¿En qué año se produjo la independencia de México?",
+    "respuestas": {
+      "correcta": "1821",
+      "incorrectas": ["1810", "1830", "1840"]
+    },
+    "dificultad": "Media"
+  }
+]
