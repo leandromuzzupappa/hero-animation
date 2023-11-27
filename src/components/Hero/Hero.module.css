@@ -1,12 +1,18 @@
 .hero {
-  --hero-padding-top: calc(50px + 20px); /* 50px is the navbar height */
+  --hero-padding-top: calc(30px + 50px); /* 50px is the navbar height */
 
   background: #ff512f;
   background: -webkit-linear-gradient(to right, #dd2476, #ff512f);
   background: linear-gradient(to right, #dd2476, #ff512f);
   border-radius: 1rem;
-  min-height: calc(100vh - var(--hero-padding-top) * 2);
   margin-block-start: var(--hero-padding-top);
   margin-inline: 2rem;
-  padding: 1rem;
+  padding: 1.5rem 1rem;
+  position: relative;
+}
+
+.hero p {
+  color: #ebebeb;
+  padding-block-end: 1rem;
+  text-transform: lowercase;
 }
